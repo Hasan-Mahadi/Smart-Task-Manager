@@ -1,4 +1,4 @@
-// src/routes/activityLogs.ts
+
 import express, { Request, Response } from 'express';
 import ActivityLog from '../models/ActivityLog';
 import { authenticate } from '../middleware/auth';

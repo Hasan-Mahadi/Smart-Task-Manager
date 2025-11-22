@@ -1,4 +1,4 @@
-// src/controllers/dashboardController.ts
+
 import { Response } from 'express';
 import Project from '../models/Project';
 import Task from '../models/Task';

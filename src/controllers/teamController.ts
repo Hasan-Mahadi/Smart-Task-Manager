@@ -1,4 +1,4 @@
-// src/controllers/teamController.ts
+
 import { Response } from 'express';
 import Team from '../models/Team';
 import { AuthRequest } from '../middleware/auth';

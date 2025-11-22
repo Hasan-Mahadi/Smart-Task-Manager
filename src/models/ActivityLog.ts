@@ -1,4 +1,4 @@
-// src/models/ActivityLog.ts
+
 import mongoose, { Document, Schema } from 'mongoose';
 
 export interface IActivityLog extends Document {

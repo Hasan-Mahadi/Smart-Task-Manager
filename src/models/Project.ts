@@ -1,4 +1,4 @@
-// src/models/Project.ts
+
 import mongoose, { Document, Schema } from 'mongoose';
 
 export interface IProject extends Document {

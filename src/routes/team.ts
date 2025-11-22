@@ -1,4 +1,4 @@
-// src/routes/teams.ts
+
 import express from 'express';
 import { 
   createTeam, 

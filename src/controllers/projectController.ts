@@ -1,4 +1,4 @@
-// src/controllers/projectController.ts
+
 import { Response } from 'express';
 import Project from '../models/Project';
 import Team from '../models/Team';

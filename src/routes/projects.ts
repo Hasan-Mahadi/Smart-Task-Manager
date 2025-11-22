@@ -1,4 +1,4 @@
-// src/routes/projects.ts
+
 import express from 'express';
 import { 
   createProject, 

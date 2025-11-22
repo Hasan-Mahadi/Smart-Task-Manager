@@ -1,4 +1,4 @@
-// src/routes/auth.ts
+
 import express from 'express';
 import { register, login, getMe } from '../controllers/authController';
 import { authenticate } from '../middleware/auth';
